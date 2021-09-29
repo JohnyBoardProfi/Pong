@@ -1,0 +1,7 @@
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\bin\Debug\Pong.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\bin\Debug\Pong.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\bin\Debug\Pong.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\obj\Debug\Pong.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Pong\Pong\obj\Debug\Pong.pdb
